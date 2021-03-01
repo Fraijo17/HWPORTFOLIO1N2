@@ -1,0 +1,9 @@
+body {
+    background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm31-aom-012-concrete_2.jpg?w=1300&dpr=1&fit=default&crop=default&q=80&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=0e83ab34f6b57a98703aa9d198420b80");
+    }
+
+    .card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
